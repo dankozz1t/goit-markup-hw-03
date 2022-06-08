@@ -264,6 +264,10 @@ body {
   color: var(--address-color);
 }
 
+.address-item:not(:last-child) {
+  margin-bottom: 9px;
+}
+
 /* ------------ portfolio ------------ */
 .work-examples-link {
   text-decoration: none;
