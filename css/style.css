@@ -114,7 +114,6 @@ body {
 
 .section-hero {
   text-align: center;
-  margin-bottom: 94px;
   padding: 200px 0px;
 
   color: var(--white-color);
@@ -159,7 +158,7 @@ body {
 
 /* ------------ our features ------------ */
 .section-features {
-  margin-bottom: 94px;
+  padding: 94px 0;
 }
 
 .features-title {
@@ -196,7 +195,7 @@ body {
 
 /* ------------ presentation ------------ */
 .section-presentation {
-  margin-bottom: 94px;
+  padding-bottom: 94px;
 }
 .img-item:not(:last-child) {
   margin-right: 30px;
