@@ -189,7 +189,7 @@ body {
   margin: 0;
 
   font-size: 14px;
-  line-height: 2;
+  line-height: 1.71;
   letter-spacing: 0.03em;
 
   color: var(--primary-text-color);
