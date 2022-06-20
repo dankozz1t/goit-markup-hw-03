@@ -335,8 +335,16 @@ body {
 .example-item:nth-child(3n) {
   margin-right: 0;
 }
+
+.example-item:nth-last-child(-n + 3) {
+  margin-bottom: 0;
+}
 .example-link {
   text-decoration: none;
+}
+
+.example-img {
+  display: block;
 }
 
 .card-border {
